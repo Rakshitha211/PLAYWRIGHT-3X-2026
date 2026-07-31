@@ -18,3 +18,6 @@ console.log("1"===true); //false, strict comparison
 
 console.log(1==true); //true, loose comparison
 console.log(1===true); //false, strict comparison       
+
+//empty string, null, undefined, 0, false are considered 
+// as falsy values in javascript.
