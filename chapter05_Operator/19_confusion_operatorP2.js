@@ -46,8 +46,8 @@ console.log(undefined ===false); //false, strict comparison
 console.log("" ==false); //true, loose comparison
 console.log("" ===false); //false, strict comparison    
 
-console.log(null>==undefined); //true, loose comparison
-console.log(null>==undefined); //false, strict comparison   
+//console.log(null>==undefined); //true, loose comparison
+//console.log(null>==undefined); //false, strict comparison   
 
 
 console.log(null ==undefined); //true, loose comparison
